@@ -4,7 +4,7 @@ Partner data validation for Georgia, 2016. Data Partners: VEST.
 [Final Report](link goes here)
 
 **Raw from source:**
-- File:
+- File: MEDSL precinct-levele election results  
   - Online: 
   - AWS: `name.txt`
   - Accessed: 
