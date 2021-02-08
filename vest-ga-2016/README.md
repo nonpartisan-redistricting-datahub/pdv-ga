@@ -22,9 +22,7 @@ Partner data validation for Georgia, 2016. Data Partners: VEST.
   - Accessed: 02/08/21
   - Note:
   
-  
    
 **File Processing:**
-- VEST File: [Harvard Dataverse Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I)
-- Processing and Validation Steps: `.ipynb`
-- Notes / Methodology: Comments on `.ipynb`
+- Processing and Validation Steps: `VEST_GA_16_replication.ipynb`
+- Notes / Methodology: Comments on `VEST_GA_16_replication.ipynb`
