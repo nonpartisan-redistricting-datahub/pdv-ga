@@ -4,7 +4,19 @@ Partner data validation for Georgia, 2016. Data Partners: VEST.
 [Final Report](link goes here)
 
 **Raw from source:**
-- File: MEDSL precinct-level election results  
+- File: MEDSL precinct-level senate election results  
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NLTQAD)
+  - AWS: `2016-precinct-senate.tab`
+  - Accessed: 02/09/21
+  - Note: Multiple download format options, we chose ".tab"
+  
+  - File: MEDSL precinct-level state election results  
+  - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GSZG1O)
+  - AWS: `2016-precinct-state.tab`
+  - Accessed: 02/09/21
+  - Note: Multiple download format options, we chose ".tab"
+
+- File: MEDSL precinct-level presidential election results  
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/LYWX3D/C5CS03&version=11.0)
   - AWS: `2016-precinct-president.tab`
   - Accessed: 02/08/21
