@@ -48,15 +48,21 @@ Partner data validation for Georgia, 2016. Data Partners: VEST.
   
 - File: VEST GA 16 data file
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=4278894&version=52.0)
-  - AWS: Not yet loaded, but will be `ga_2016.zip`
+  - AWS: `ga_2016.zip`
   - Accessed: 02/08/21
   - Note:
 
 - File: VEST GA 16 documentation file
   - Online: [Harvard Dataverse Link](https://dataverse.harvard.edu/file.xhtml?fileId=4366197&version=52.0)
-  - AWS: Not yet loaded, but will be `documentation.txt`
+  - AWS: `documentation.txt`
   - Accessed: 02/08/21
   - Note:
+
+- File: Fulton County precinct shapefile
+  - Online: [Fulton County GIS link](https://gisdata.fultoncountyga.gov/datasets/voting-precincts)
+  - AWS: `Voting_Precincts.shp`
+  - Accessed: 02/18/21
+  - Note: Exchanged emails w/ Oliver N. Mohar (Oliver.Mohar@fultoncountyga.gov), Project Manager, Geospatial Program for Fulton County on 02/18/21 to fix an issue with downloading the file on this page.
   
    
 **File Processing:**
