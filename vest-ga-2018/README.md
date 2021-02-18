@@ -1,7 +1,7 @@
 # pdv-ga  
 Partner data validation for Georgia, 2018. Data Partners: VEST. 
 
-[Final Report](link goes here)
+[Final Report](https://docs.google.com/document/d/1MZrsVDcowjs9BtwZFFGDm6h76PdvAOrA0Zhf2tRBgp8/edit#)
 
 **Raw from source:**
 - File: 
