@@ -1,7 +1,7 @@
 # pdv-ga  
 Partner data validation for Georgia, 2016. Data Partners: VEST. 
 
-[Final Report](link goes here)
+[Final Report](https://docs.google.com/document/d/1FdXTzei6U4MLSNNCjztN6tCSIbePfJiLYNwpegGBQ_A/edit#heading=h.2yey0bayshyk)
 
 **Raw from source:**
 - File: Chattooga County USGS Topographical Map #1
