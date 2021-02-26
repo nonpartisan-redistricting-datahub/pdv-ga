@@ -40,11 +40,11 @@ Partner data validation for Georgia, 2018. Data Partners: VEST.
   - Accessed: 02/12/21
   - Note:
 
-- File: Fulton County precinct shapefile
-  - Online: [Fulton County GIS link](https://gisdata.fultoncountyga.gov/datasets/voting-precincts)
-  - AWS: `Voting_Precincts.shp`
-  - Accessed: 02/18/21
-  - Note: Exchanged emails w/ Oliver N. Mohar (Oliver.Mohar@fultoncountyga.gov), Project Manager, Geospatial Program for Fulton County on 02/18/21 to fix an issue with downloading the file on this page.
+- File: Fulton County 2016 precinct shapefile
+  - Online: No link available, but general [Fulton County GIS link](https://gisdata.fultoncountyga.gov/datasets/voting-precincts) is there
+  - AWS: `Precincts2016.shp`
+  - Accessed: 02/19/21
+  - Note: Exchanged emails w/ Hyun Hee Kwak (Hyun-Hee.Kwak@fultoncountyga.gov), Project Manager, Geospatial Program for Fulton County on 02/18/21 to fix an issue with downloading the file on the Fulton County GIS page and then inquired about older precinct data, which was emailed to me.
 
 - File: Georgia general precinct-level election results
   - Online: [Georgia SOS link](https://results.enr.clarityelections.com/GA/91639/Web02-state.221451/#/)
