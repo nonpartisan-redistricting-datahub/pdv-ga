@@ -57,12 +57,6 @@ Partner data validation for Georgia, 2018. Data Partners: VEST.
   - AWS: `Runoff_Results`
   - Accessed: 02/16/21
   - Note: These had to be downloaded county-by-county in a very time-intensive process as Georgia does not have a file with all of these in one place. These were all downloaded as XML files and processed internally. The precinct-level results for each county were found by going to link above, clicking "Results by County" and then clicking on each county and on each county's page downloading "Detail XML" under "Reports". 
-
-- File: US County FIPS Codes
-  - Online: [GitHub repo link](https://github.com/kjhealy/fips-codes)
-  - AWS: `fips-codes-master`
-  - Accessed: 02/18/21
-  - Note: Used these to create a dictionary to go from county name to FIPS code. Many different files / data sources could serve this purpose.
   
 **File Processing:**
 - Processing and Validation Steps: `VEST_GA_18_replication.ipynb`
