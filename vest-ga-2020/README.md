@@ -9,11 +9,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ## **Raw from source:**
 - VEST Georgia 2020 Data File  
   - Accessed: 06/07/2021, Source: VEST on the Harvard Dataverse
-  - https://dataverse.harvard.edu/file.xhtml?fileId=4280646&version=28.0
+  - https://dataverse.harvard.edu/file.xhtml?fileId=5595329&version=28.0
 
 - VEST Georgia 2020 Documentation
   - Accessed: 06/07/2021, Source: VEST on the Harvard Dataverse
-  - https://dataverse.harvard.edu/file.xhtml?fileId=4789405&version=28.0
+  - https://dataverse.harvard.edu/file.xhtml?fileId=5595328&version=28.0
 
 - General Election results for Georgia, November 3, 2020:
   - Accessed, 06/07/2021, Source: Georgia SOS Elections Division
