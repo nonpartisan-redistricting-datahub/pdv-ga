@@ -25,6 +25,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - https://results.enr.clarityelections.com/GA/107231/web.264614/#/summary
   - Note: Precinct-level results are only available county-by-county. From the link above, click “Results by County”, and for every county, click its name and then click the download button next to “Detail XML” in the “Reports” section. 
 
+- Runoff Election:
+  - Accessed, 12/16/2021, Source: Georgia SOS Elections Division
+  - https://results.enr.clarityelections.com/GA/107556/web.264614/#/summary
+  - Note: Precinct-level results are only available county-by-county. From the link above, click “Results by County”, and for every county, click its name and then click the download button next to “Detail XML” in the “Reports” section. Four counties, Camden, Chattooga, Grady, and Greene, did not have a "Detail XML" file available, and these counties' precinct-level votes were added to a spreadsheet by hand.
+
 - Precinct Shapefile for Georgia
   - Accessed, 06/07/2021, Source: Georgia General Assembly
   - https://www.legis.ga.gov/joint-office/reapportionment
