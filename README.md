@@ -8,7 +8,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-ga-2020
 
-RDH's partner data validation for VEST's 2020 GA file. VEST's raw file is available [here](https://redistrictingdatahub.org/dataset/vest-2020-georgia-precinct-boundaries-and-election-results-shapefile/).
+RDH's partner data validation for VEST's 2020 GA file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4863164&version=28.0).
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-georgia-precinct-boundaries-and-election-results-shapefile/).
 
