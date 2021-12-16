@@ -9,7 +9,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ## **Raw from source:**
 - VEST Georgia 2020 Data File  
   - Accessed: 12/16/2021, Source: VEST on the Harvard Dataverse
-  - https://dataverse.harvard.edu/file.xhtml?fileId=5595329&version=28.0
+  - https://dataverse.harvard.edu/file.xhtml?fileId=4863164&version=28.0
 
 - VEST Georgia 2020 Documentation
   - Accessed: 12/16/2021, Source: VEST on the Harvard Dataverse
